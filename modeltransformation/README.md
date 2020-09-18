@@ -1,6 +1,6 @@
 # Mesh Rendering using WebGL/REGL
 
-https://observablehq.com/d/6f679f27894d2cea@307
+https://observablehq.com/d/6f679f27894d2cea
 
 View this notebook in your browser by running a web server in this folder. For
 example:
