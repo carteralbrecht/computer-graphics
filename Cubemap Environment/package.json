@@ -1,0 +1,14 @@
+{
+  "name": "e7ef0ffe6d67567a",
+  "main": "e7ef0ffe6d67567a@1532.js",
+  "version": "1532.0.0",
+  "homepage": "https://observablehq.com/d/e7ef0ffe6d67567a",
+  "author": {
+    "name": "Carter Albrecht",
+    "url": "https://observablehq.com/@carteralbrecht"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
