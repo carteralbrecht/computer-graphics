@@ -2,8 +2,6 @@
 [Observable](https://observablehq.com/) notebooks for learning computer graphics in college
 
 ## Quick Links
-[Interactive 3D Data Viewer](https://observablehq.com/d/baf306b703c5bb47) 
-
 [Camera Movement](https://observablehq.com/d/84bbe06901c2f9f4@241) 
 
 [Environments with Cubemap](https://observablehq.com/d/e7ef0ffe6d67567a@1532) 
